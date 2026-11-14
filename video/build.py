@@ -29,7 +29,7 @@ SCENES = [
     {"tag": "결론", "html": """
       <h1>뜨는 상권이 아니라<br><em>버티는 생활권</em>에 냅니다.</h1>
       <div class="row" data-s="2"><div class="pill">추천 입지</div><div class="xl">강동구 둔촌역 상권</div></div>
-      <div class="kp" data-s="2"><div><b>14위 / 337</b><span>성장성 점수 · 상위 4%</span></div><div><b>5.6억 원</b><span>점포당 제과점 연매출 · 상위 9%</span></div><div><b>10.4%</b><span>3년차 영업이익률</span></div></div>""",
+      <div class="kp" data-s="2"><div><b>14위 / 337</b><span>성장성 점수 · 상위 4%</span></div><div><b>5.6억 원</b><span>점포당 제과점 연매출 · 상위 9%</span></div><div><b>8.8%</b><span>3년차 영업이익률</span></div></div>""",
      "lines": ["결론부터 말씀드립니다. 다음 매장은 뜨는 상권이 아니라, 버티는 생활권에 내야 합니다.",
                "추천 입지는 강동구 둔촌역 상권입니다."]},
     {"tag": "시장", "html": """
@@ -66,11 +66,13 @@ SCENES = [
                "좌석은 줄이고, 포장 동선을 넓힙니다."]},
     {"tag": "손익", "html": """
       <h2>상권 평균만 해도 <em>손익분기</em></h2>
-      <div class="kp"><div><b>5.6억 원</b><span>1년차 매출 = 상권 점포당 평균</span></div><div><b>일 137건</b><span>손익분기 · 기본 가정 146건</span></div><div><b>11.1%</b><span>1년차 EBITDA 마진</span></div></div>
-      <div class="kp" data-s="2"><div><b>6.65억 원</b><span>3년차 매출</span></div><div><b>10.4%</b><span>3년차 영업이익률</span></div><div><b>약 3.3년</b><span>투자 3.0억 원 회수</span></div></div>
-      <p class="src">매출 근거는 서울 열린데이터 추정매출, 비용 비율은 가정값 · 웹페이지에서 직접 조정 가능</p>""",
+      <div class="kp"><div><b>5.6억 원</b><span>1년차 매출 = 상권 점포당 평균</span></div><div><b>일 142건</b><span>손익분기 · 기본 가정 146건</span></div><div><b>9.5%</b><span>1년차 EBITDA 마진</span></div></div>
+      <div class="kp" data-s="2"><div><b>6.65억 원</b><span>3년차 매출</span></div><div><b>8.8%</b><span>3년차 영업이익률 · 외식업 평균 8.7%</span></div><div><b>약 4.1년</b><span>권리금 포함 투자 3.5억 원 회수</span></div></div>
+      <div class="rank" data-s="3"><span>인건비 30.0% · <b>성심당 31.1% · 아티제 30.4%</b></span><span>임차료 ㎡당 8.3만 원 · <b>천호 5.8만 원</b></span><span>재료비 36% · <b>아티제 34.1%</b></span></div>
+      <p class="src">매출은 서울 열린데이터 추정매출 · 비용은 DART 감사보고서(2025년), 한국부동산원(2026년 3분기), 최저임금위원회 기준</p>""",
      "lines": ["66제곱미터 매장 기준, 1년차에 상권 평균 매출인 5억 6천만 원으로 손익분기를 넘깁니다.",
-               "3년차에는 매출 6억 6천만 원, 영업이익률 10%, 투자금 회수는 약 3년입니다."]},
+               "3년차에는 매출 6억 6천만 원, 영업이익률 약 9%, 투자금 회수는 약 4년입니다.",
+               "비용 가정은 성심당과 아티제의 실제 공시와 대조해 맞췄습니다."]},
     {"tag": "제안", "html": """
       <h1>뜨는 곳이 아니라,<br><em>버티는 곳.</em></h1>
       <div class="xl" style="margin-top:40px">둔촌에서 시작하겠습니다.</div>
